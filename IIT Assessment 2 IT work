@@ -1,0 +1,89 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+<!-- CSS coding--> 
+		<style> 
+			body {
+			  background-color: black;
+			  margin-top: 10px;
+			  margin-bottom: 10px;
+			  margin-right: 10px;
+			  margin-left: 10px;
+			}
+			h1 {
+			  color: white;
+			  text-align: center;
+			  font-size: 80px;
+			}
+			h3 {
+			  background-color: #ccccff; style="float:center; width: 300px;"
+			  color: white;
+			  text-align: center;
+			  font-size: 40px;
+			}
+			#border { 
+			  border: 40px solid transparent;
+			  padding: 20px;
+			  border-image: url(border.jpg) 15 round;
+			}
+			li {
+			  font-family: verdana;
+			  font-size: 20px;
+			  color: white;
+			}
+			p {
+			  font-family: verdana;
+			  font-size: 18px;
+			  color: white;
+			  background-color: 
+			}
+			a{
+				font-family: verdana;
+				font-size:16px;
+				background-color:
+			}
+			.div1 {
+			  width: 1200px;
+			  border: 10px solid pink;
+			  padding: 50px;
+			  margin: 30px;
+			}
+			h4 {
+			  color: #ffccff;
+			  text-align: left;
+			  font-size: 25px;
+			}
+		</style>
+<!--Title of the page-->
+		 <title> IT Work </title> 
+	</head>
+<!--Body of the page-->
+ 	<body> 
+		<h1>IT Work</h1>
+		<body id="border">
+		<div class="div1">
+		<h4>38 Types of  IT Industry - Simplicable</h4>
+		<a href='https://simplicable.com/new/it-industry'>https://simplicable.com/new/it-industry</a>
+		<p>This website gives brief descriptions about the types of industries within the IT industry. Some noted by the website include Artificial Intelligence, Research and Development, Energy, etc.</p>
+		<br>
+		<h4>Who Does What in the Tech Industry - YouTube</h4>
+		<a href='https://www.youtube.com/watch?v=i5qpS_D8Law&ab_channel=Treehouse'>https://www.youtube.com/watch?v=i5qpS_D8Law&ab_channel=Treehouse</a>
+		<p>This video is from the company Treehouse or Teamtreehouse which is an online technology school. In it, Ryan Carson, a co-founder of Treehouse, briefly goes through who and what gets done in order to build websites, mobile applications and web applications. It talks about what languages get used, who uses them and what technologies are needed to build them.</p>
+		<br>
+		<h4>What's Is a IT Professional | Definition | Tools | Meaning</h4>
+		<a href='https://www.educba.com/it-professional/'>https://www.educba.com/it-professional/</a>
+		<p>This page is a blog created by <a href='https://www.educba.com/author/priya-pedamkar/'>Priya Pedamkar</a>, an IT professional with experience in software and database engineering, Eleading content writer at EDUCBA and 12+ years of experience in IT training. It explains that in layman’s terms, any person associated with the computer world is an IT professional. It gives six examples of IT professionals which are tech support, networker, internet and website designer, programmer, database developer and software developer, alongside brief descriptions of these professions. It details the relationship between an IT professional and the ever changing requirements of clients and customers and as such, an IT professional must keep up with the latest developments and technologies as well as other IT professionals. One of the biggest points of the blog is the challenge of communication; how and what to talk about with different types of people, explanation of problems and their solutions. It went on to give two different examples, one with a nontechnical person and the other with an entrepreneur, and their respective challenges; how the first should be kept simple while the second should be related more so to business.</p>
+		<br>
+		<h4>Day to Day Work Life in Information Technology - What do I do?</h4>
+		<a href='https://www.youtube.com/watch?v=om8AygYdrto'>https://www.youtube.com/watch?v=om8AygYdrto</a>
+		<p>This video is uploaded to a channel on youtube named I.T. Career Questions where he explains his day to day work life. His official title is an “Information systems technician” and he mentions that most of his work is done with a ticketing system called “service desk” where he also creates and manages user accounts and emails. Although states that this can change day to day, where he is also required to answer phone calls and sometimes works on the field (goes out of his office to other departments). One of the challenges mentioned is the video is task priority as he has many tasks and must jump between them to get them done whilst taking importance into account.</p>
+		<br>
+		<h4>Day In The Life of a Network Analyst | NOC - YouTube</h4>
+		<a href='https://www.youtube.com/watch?v=qpZbRUEE_Dc'>https://www.youtube.com/watch?v=qpZbRUEE_Dc</a>
+		<p>This video uploaded by PushToProd who is a NOC analyst (Network Operation Center) shares his daily life doing the job, his main task is monitoring sites and dashboards for any network issues so he may assist in recovering it. Using a ticketing system he is able to list and prioritise tasks, some of these tasks are assisting people with network issues , installing devices in client stores and although not normal for the job, writing scripts to help automate some tasks. His clients were stores, both managing their network and device setups, as well as keeping their devices up to date. Whilst also working on backup devices to keep a stores network running if the main one shuts down so they can recover it without their clients suffering any issues.</p>
+		<br>
+		<h4>A Day As An IT Support Specialist - YouTube</h4>
+		<a href='https://www.youtube.com/watch?v=1l3kKBEEQIo'>https://www.youtube.com/watch?v=1l3kKBEEQIo</a>
+	</div>
+ 	</body>
+ </html>

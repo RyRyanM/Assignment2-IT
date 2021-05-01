@@ -1,0 +1,75 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+<!-- CSS coding--> 
+		<style> 
+			body {
+			  background-color: black;
+			  margin-top: 10px;
+			  margin-bottom: 10px;
+			  margin-right: 10px;
+			  margin-left: 10px;
+			}
+			h1 {
+			  color: white;
+			  text-align: center;
+			  font-size: 80px;
+			}
+			h3 {
+			  background-color: #ccccff; style="float:center; width: 300px;"
+			  color: white;
+			  text-align: center;
+			  font-size: 40px;
+			}
+			#border { 
+			  border: 40px solid transparent;
+			  padding: 20px;
+			  border-image: url(border.jpg) 15 round;
+			}
+			li {
+			  font-family: verdana;
+			  font-size: 20px;
+			  color: white;
+			}
+			p {
+			  font-family: verdana;
+			  font-size: 18px;
+			  color: white;
+			  background-color: 
+			}
+			.div1 {
+			  width: 1200px;
+			  border: 10px solid pink;
+			  padding: 50px;
+			  margin: 30px;
+			}
+			h4 {
+			  color: #ffccff;
+			  text-align: left;
+			  font-size: 25px;
+			}
+		</style>
+<!--Title of the page-->
+		 <title> Reflections </title> 
+	</head>
+<!--Body of the page-->
+ 	<body> 
+		<h1>Reflections</h1>
+		<body id="border">
+		<div class="div1">
+		<h4>Nicholas</h4>
+		<p>We worked quite quickly and well when everyone was working at the same time, for example, during the meetings, but seemed to slow down when working individually. I think that more meetings could help with this but not everyone is always available. One thing that surprised me was the speed at which tasks were completed when everyone was present. I learned a few things about working in groups. One is having a microphone that has noise suppression or a noise gate really helps when trying to have a meeting. A lot of the time, the background volume would become unbearable so I would turn it down, only to have to turn it back up for when there was discussion or questions. Another thing I learned is that you can’t always expect there to be a leader in your group. I genuinely thought one of us was just going to take up the role. Finally, communication and understanding is very key to group work. I knew that it was necessary but I did not understand just how key it was.</p>
+		<h4>Long</h4>
+		<p>There are many things to say about our group. The amount of work is solved very quickly when 4 of us sit together. We list out what we need to do for each individual that is what I very prefer when talking about teamwork. I think setting out more meetings can help us solve every problem. However, everyone has their own problem and we can meet that much in a week. The thing that I am amazed about this group is everyone discusses and agrees with each other's opinion very fast to settle the deadline. For me i think the biggest problem of this group is no one steps up to be a leader. Our communication is very difficult to manage. Usually everyone just keeps silent after deciding which part they need to do. And none of us don't know how to fix this problem. assignment.</p>
+		<h4>Ryan</h4>
+		<p></p>
+		<h4>Phi</h4>
+		<p></p>
+	</div>
+	<body id="border">
+	<div class="div1">
+		<h3>Group Reflection</h3>
+		<p></p>
+	</div>
+ 	</body>
+ </html>
