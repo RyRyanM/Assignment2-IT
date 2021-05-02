@@ -1,0 +1,416 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+<!-- CSS coding--> 
+		<style> 
+			body {
+			  background-color: black;
+			  margin-top: 10px;
+			  margin-bottom: 10px;
+			  margin-right: 10px;
+			  margin-left: 10px;
+			}
+			h1 {
+			  color: white;
+			  text-align: center;
+			  font-size: 80px;
+			}
+			h3 {
+			  background-color: #ccccff; style="float:center; width: 300px;"
+			  color: white;
+			  text-align: center;
+			  font-size: 40px;
+			}
+			#border { 
+			  border: 40px solid transparent;
+			  padding: 20px;
+			  border-image: url(border.jpg) 15 round;
+			}
+			li {
+			  font-family: verdana;
+			  font-size: 20px;
+			  color: white;
+			}
+			p {
+			  font-family: verdana;
+			  font-size: 18px;
+			  color: white;
+			  background-color: 
+			}
+			.div1 {
+			  width: 1200px;
+			  border: 10px solid pink;
+			  padding: 50px;
+			  margin: 30px;
+			}
+			h4 {
+			  color: #ffccff;
+			  text-align: left;
+			  font-size: 25px;
+			}
+		</style><!--Title of the page-->
+		 <title> Introduction to Information Technology Assessment 2 </title> 
+	</head>
+<!--Body of the page-->
+	<body>
+		<h1> Introduction to Information Technology Assessment 2 </h1>
+		<body id="border">
+		<div class="div1">
+			<h3> Team Profile </h3>
+			<h4>Ryan Mitchem</h4>
+			<p><b>Student ID</b>: s3902067 </p>
+			<p><b>Background</b>: Australian / Taiwanese </p>
+			<p><b>Hobbies</b>: playing and competing in video games, anime and working on my car!</p>
+			<p><b>IT interests</b>: My interests in IT revolve around competitive first person shooters, specifically CS:GO (Counter Strike Global Offensive). While playing this I decided to learn how to create my own first person shooter, so I created a single player zombies games using unity and have found an interest in coding and technology since.</p>
+			<p><b>IT experiences</b>: Studied computing, game making, multimedia, coding (both python and visual basic) and in my own time playing with unity and unreal engine.</p>
+			<p><b>Test outcomes</b>:
+			<ul>
+				<li>Myers-Briggs test - ISTP-T</li>
+				<li>Learning styles test - Tactile</li>
+				<li>Big 5 test (in picture below)</li>
+				<img source="Big5.jpg" alt="Big 5 test results" style="float;height:143px;">
+			</ul></p>
+			<br>
+			<h4>Nicholas Han</h4>
+			<p><b>Student ID</b>: s3781290 </p>
+			<p><b>Background</b>: Malaysian Chinese</p>
+			<p><b>Hobbies</b>: playing computer games, reading manga</p>
+			<p><b>IT interests</b>: When I was younger, I watched anime and decided I wanted to either build a robot or mecha, which is a giant  armoured robot, typically controlled by a person riding inside the robot, or a full dive system from Sword Art Online. As a result, programming became my focus. It Turned into me liking programming and the euphoria that comes from finding a way to solve
+something.
+</p>
+			<p><b>IT experiences</b>: Not much, just some programming languages like Java, JavaScript, Html, Python</p>
+			<p><b>Test outcomes</b>:
+			<ul>
+				<li>Myers-Briggs test - ISFP-T</li>
+				<li>Learning style test - visual learner</li>
+				<li>Creativity test - 54.94</li>
+			</ul></p>
+			<br>
+			<h4>Phi Huynh</h4>
+			<p><b>Student ID</b>: s3909043</p>
+			<p><b>Background</b>: Vietnamese Australian</p>
+			<p><b>Hobbies</b>: PC games, TV shows/Anime/Drama, walks, sleeping</p>
+			<p><b>IT interests</b>: High-school IT subject got me interested in IT: Cert III. in Digital Media and Technology, it was a 3 year subject that was decently enjoyable and easy to complete.</p>
+			<p><b>IT experiences</b>: Studied some software/hardware, MS Excel/Access, Databases, Setting up Macros, HTML/CSS and some general user-based design in my Cert III. VET course I completed in High school.</p>
+			<p><b>Test outcomes</b>:
+			<ul>
+				<li>Myers-Briggs test: ISFP-T</li>
+				<li>Learning Style test: Visual learner</li>
+				<li>Big Five Personality test: </li>
+				<ul>
+					<li>Extroversion: 3</li>
+					<li>Emotional Stability: 78</li>
+					<li>Agreeableness: 30</li>
+					<li>Conscientiousness: 52</li>
+					<li>Intellect/Imagination: 1</li>
+				</ul>
+			</ul></p>
+			<br>
+			<h4>Nguyen Hoang Long</h4>
+			<p><b>Student ID</b>: s3777219</p>
+			<p><b>Background</b>: Vietnam</p>
+			<p><b>Hobbies</b>: Playing video games and listening to music</p>
+			<p><b>IT interests</b>: To begin with, the major that I want to study in is IT (Information Technology). Although it is not an easy major to study since it requires students to study a lot of knowledge and you have to be very good at English to study this major. Moreover, meticulousness and accuracy in work or project are also an obligation since even a few errors will make a machine or software not work. The program in IT (Information technology) will provide me knowledge, understand deeply about the software and machine that I have to work in the future and give me a chance to practice.Lastly, I hope in the near future I can create a program to help a lot of people which is my dream.</p>
+			<p><b>IT experiences</b>: Studied some programming/coding(python , c++)MS Excel/Access, Databases, HTML/CSS</p>
+			<p><b>Test outcomes</b>:
+			<ul>
+				<li>Big Five Personality test:</li>
+				<li>16 personality test result:</li>
+				<img source="pasted image 0.png" alt="Big 5 Test Result" style="float;width:1107px;">
+			</ul>
+			</p>
+		</div>
+		<div class="div1">
+			<h3> Ideal Job Comparison </h3>
+			<img src="SkillsDiagram.jpg" alt="Skills Diagram" style="float:right;width:380px;">
+			<p><b>Ryan</b>: Online game designer</p>
+			<p><b>Phi</b>: Database Administrator </p>
+			<p><b>Nicholas</b>: Game Programmer</p>
+			<p><b>Long</b>: Website Developer</p>
+			<br>
+			<p>Within the skills listed between each of our ideal jobs a quarter of them are shared between multiple members, whilst none are shared between all members. The diagram shows that between the shared skill requirements, they are split into two groups of similarities. </p>
+		</div>
+		<div class="div1">
+			<h3> Industry Data </h3>
+			<h4>What are the Job Titles for your group's ideal jobs? How do each of these rank in terms of demand from employers?</h4>
+			<p>Website Developer - ranked 15 <br> Database Administrator - ranked 8 <br> Game Programmer	- ranked NULL <br> Online Game Designer - ranked 2</p>
+			<br>
+			<h4>How do the IT-specific skills in your required skill set rank in terms of demand from employers?</h4>
+			<ul>
+				<li>Website Developer</li>
+				<ul>
+					<li>Javascript	- ranked 2</li>
+					<li>Java - ranked 3</li>
+					<li>Graphic Design - ranked 10</li>
+					<li>Customer Service - ranked 14</li>
+					<li>Git - ranked 21</li>
+				</ul>
+				<br>
+				<li>Database Administrator</li>
+				<ul>
+					<li>SQL - ranked 1</li>
+					<li>Project management - ranked 5</li>
+					<li>Business Analysis - ranked 7</li>
+					<li>Oracle - ranked 19</li>
+				</ul>
+				<br>
+				<li>Game Programmer</li>
+				<ul>
+					<li>C++ - ranked NULL</li>
+					<li>Python - ranked 22</li>
+					<li>Graphic Design - ranked 10</li>
+				</ul>
+				<br>
+				<li>Online Game Designer</li>
+				<ul>
+					<li>SQL - ranked 1</li>
+					<li>Microsoft Windows - ranked 4</li>
+					<li>Graphic Design		-ranked 10</li>
+					<li>C#				-ranked 12</li>
+					<li>Git				-ranked 21</li>
+					<li>Python				-ranked 22</li>
+				</ul>
+			</ul>
+			<br>
+			<h4>How do the general skills in your required skill set rank in terms of demand from employers?</h4>
+			<ul>
+				<li>Website Developer</li>
+				<ul>
+					<li>Communication skills		- ranked 1</li>
+					<li>Problem solving		- ranked 2</li>
+					<li>Planning			- ranked 7</li>
+					<li>Detail-Oriented		- ranked 8</li>
+					<li>Creativity			- ranked 9</li>
+					<li>Presentation skills		- ranked 15</li>
+					<li>Multi-tasking			- ranked 20</li>
+				</ul>
+				<br>
+				<li>Database Administrator</li>
+				<ul>
+					<li>Communication Skills		- ranked 1</li>
+					<li>Problem solving		- ranked 2</li>
+					<li>Organisational skills		- ranked 3</li>
+					<li>Planning			- ranked 7</li>
+					<li>Presentation skills		- ranked 15</li>
+				</ul>
+				<br>
+				<li>Game Programmer</li>
+				<ul>
+					<li>Communication Skills		- ranked 1</li>
+					<li>Problem Solving 		- ranked 2</li>
+					<li>Teamwork			- ranked 5</li>
+					<li>Trouble-shooting		- ranked 6</li>
+					<li>Detail-Oriented		- ranked 8</li>
+				</ul>
+				<br>
+				<li>Online Game Designer</li>
+				<ul>
+					<li>Communication skills		-ranked 1</li>
+					<li>Problem solving		-ranked 2</li>
+					<li>Teamwork / Collaboration	-ranked 5</li>
+					<li>Creativity 			-ranked 9</li>
+					<li>Decision Making		-ranked 25</li>
+				</ul>
+			</ul>
+			<br>
+			<h4>What are the three highest ranked IT-specific skills which are not in your required skill set?</h4>
+			<ul>
+				<li>Website Developer</li>
+				<ul>
+					<li>SQL				- ranked 1</li>
+					<li>Micorsoft Windows		- ranked 4</li>
+					<li>Project management		- ranked 5</li>
+				</ul>
+				<br>
+				<li>Database Administrator</li>
+				<ul>
+					<li>JavaScript			- ranked 2</li>
+					<li>Java				- ranked 3</li>
+					<li>Microsoft Windows		- ranked 4</li>
+				</ul>
+				<br>
+				<li>Game Programmer</li>
+				<ul>
+					<li>SQL				- ranked 1</li>
+					<li>JavaScript			- ranked 2</li>
+					<li>Java				- ranked 3</li>
+				</ul>
+				<br>
+				<li>Online Game Designer</li>
+				<ul>
+					<li>Java Script			- ranked 2</li>
+					<li>Project Management		- ranked 5</li>
+					<li>SAP				- ranked 6</li>
+				</ul>
+			</ul>
+			<br>
+			<h4>What are the three highest ranked general skills which are not in your required skill set?</h4>
+			<ul>
+				<li>Website Developer</li>
+				<ul>
+					<li>Writing				- ranked 4</li>
+					<li>Teamwork/collaboration	- ranked 5</li>
+					<li>Troubleshooting		- ranked 6</li>
+				</ul>
+				<br>
+				<li>Database Administrator</li>
+				<ul>
+					<li>Writing				- ranked 4</li>
+					<li>Teamwork/collaboration	- ranked 5</li>
+					<li>Troubleshooting		- ranked 6</li>
+				</ul>
+				<br>
+				<li>Game Programmer</li>
+				<ul>
+					<li>Organisational Skills		- ranked 3</li>
+					<li>Writing				- ranked 4</li>
+					<li>Planning			- ranked 7</li>
+				</ul>
+				<br>
+				<li>Online Game Designer</li>
+				<ul>
+					<li>Organisational Skills 		- ranked 3</li>
+					<li>Writing 			- ranked 4</li>
+					<li>Troubleshooting 		- ranked 6</li>
+				</ul>
+			</ul>
+			<br>
+			<h4>Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?</h4>
+			<ul>
+				<li>Website Developer <br> Yes, I chose this job since I have a passion for it. However, i have no idea that the ranking of this job is very low. And I think while I'm learning how to make a good website I will try to learn another thing such as graphic design. I hope they are related.Thanks to the burning glass data, it widens my knowledge about the IT world.</li>
+				<li>Database Administrator <br> Yes, because frankly I have no idea what I want as my ideal career, I picked one at random for the sake of this assignment and I believe my passion for a life-long career won’t solidify this early into my IT degree. The burning glass data has somewhat affected my opinion of my ideal job as the list of available job titles has expanded my insight on how many professions there are in the IT industry.</li>
+				<li>Game Programmer <br> No, because my hobbies are still related to videogames. While the specific job may change, the job title of game programmer will be unchanged.</li>
+				<li>Online Game Designer <br> No, my ideal job was based on current jobs that I could find during the time, I chose online game designer as it was available where and when I was looking, although I’d prefer to work on game design rather than online game design. Although the burning glass data has not changed my opinion of the job.</li>
+			</ul>
+		</div>
+		<div class="div1">
+			<h3> IT Work </h3>
+			<h4>38 Types of  IT Industry - Simplicable</h4>
+			<a href='https://simplicable.com/new/it-industry'>https://simplicable.com/new/it-industry</a>
+			<p>This website gives brief descriptions about the types of industries within the IT industry. Some noted by the website include Artificial Intelligence, Research and Development, Energy, etc.</p>
+			<br>
+			<h4>Who Does What in the Tech Industry - YouTube</h4>
+			<a href='https://www.youtube.com/watch?v=i5qpS_D8Law&ab_channel=Treehouse'>https://www.youtube.com/watch?v=i5qpS_D8Law&ab_channel=Treehouse</a>
+			<p>This video is from the company Treehouse or Teamtreehouse which is an online technology school. In it, Ryan Carson, a co-founder of Treehouse, briefly goes through who and what gets done in order to build websites, mobile applications and web applications. It talks about what languages get used, who uses them and what technologies are needed to build them.</p>
+			<br>
+			<h4>What's Is a IT Professional | Definition | Tools | Meaning</h4>
+			<a href='https://www.educba.com/it-professional/'>https://www.educba.com/it-professional/</a>
+			<p>This page is a blog created by <a href='https://www.educba.com/author/priya-pedamkar/'>Priya Pedamkar</a>, an IT professional with experience in software and database engineering, Eleading content writer at EDUCBA and 12+ years of experience in IT training. It explains that in layman’s terms, any person associated with the computer world is an IT professional. It gives six examples of IT professionals which are tech support, networker, internet and website designer, programmer, database developer and software developer, alongside brief descriptions of these professions. It details the relationship between an IT professional and the ever changing requirements of clients and customers and as such, an IT professional must keep up with the latest developments and technologies as well as other IT professionals. One of the biggest points of the blog is the challenge of communication; how and what to talk about with different types of people, explanation of problems and their solutions. It went on to give two different examples, one with a nontechnical person and the other with an entrepreneur, and their respective challenges; how the first should be kept simple while the second should be related more so to business.</p>
+			<br>
+			<h4>Day to Day Work Life in Information Technology - What do I do?</h4>
+			<a href='https://www.youtube.com/watch?v=om8AygYdrto'>https://www.youtube.com/watch?v=om8AygYdrto</a>
+			<p>This video is uploaded to a channel on youtube named I.T. Career Questions where he explains his day to day work life. His official title is an “Information systems technician” and he mentions that most of his work is done with a ticketing system called “service desk” where he also creates and manages user accounts and emails. Although states that this can change day to day, where he is also required to answer phone calls and sometimes works on the field (goes out of his office to other departments). One of the challenges mentioned is the video is task priority as he has many tasks and must jump between them to get them done whilst taking importance into account.</p>
+			<br>
+			<h4>Day In The Life of a Network Analyst | NOC - YouTube</h4>
+			<a href='https://www.youtube.com/watch?v=qpZbRUEE_Dc'>https://www.youtube.com/watch?v=qpZbRUEE_Dc</a>
+			<p>This video uploaded by PushToProd who is a NOC analyst (Network Operation Center) shares his daily life doing the job, his main task is monitoring sites and dashboards for any network issues so he may assist in recovering it. Using a ticketing system he is able to list and prioritise tasks, some of these tasks are assisting people with network issues , installing devices in client stores and although not normal for the job, writing scripts to help automate some tasks. His clients were stores, both managing their network and device setups, as well as keeping their devices up to date. Whilst also working on backup devices to keep a stores network running if the main one shuts down so they can recover it without their clients suffering any issues.</p>
+			<br>
+			<h4>A Day As An IT Support Specialist - YouTube</h4>
+			<a href='https://www.youtube.com/watch?v=1l3kKBEEQIo'>https://www.youtube.com/watch?v=1l3kKBEEQIo</a>
+		</div>
+		<div class="div1">
+			<h3> IT Technologies </h3>
+			<h4>Long - Cybersecurity</h4>
+			<p><b>What does it do?</b></p>
+			<p>According to (Statista),” there were around 4.66 billion active internet users around the world and 92,6 percent (4,32 billion) connected to the internet using mobile devices in 2021”. This data showed that the number of people using the internet has significantly peaked. This is the reason why the world relies on technology more than ever before. In today's world, cybersecurity plays a vital role in the prevention of security threats and cyber-attacks. In this report, I will talk about what cybersecurity will do and discuss how it influences the world and myself.<br>
+			First of all, we have to know what the definition of cybersecurity is and what can it do? Cyber security may also be referred to as information technology security. It is the process and practice of protecting data,networks,programs,systems,devices and other information from unauthorized access,criminal use and security threat. Cybersecurity is very important to the world. Nowadays, many businesses and governments have a huge amount of top secret data stored in computers and it can transmit across networks to another computer. That is why devices that don't have cybersecurity software are vulnerable which hackers can easily hack those information from the organisation out. That is why we need cybersecurity software to secure our data from hacking and some other factors such as viruses.<br>
+			When talk about cybersecurity we can classified into 6 groups: Network-security, Data loss prevention (DLP), Cloud security, Antivirus/anti-malware, Intrusion Detection Systems (IDS) or Intrusion Prevention Systems (IPS) and last but not least Identity and Access Management (IAM) use.<br>
+			Network security is a designed program or tool used by an enterprise to protect the integrity of your network and data.This program included both hardware and software. Secure networks help limit the ability to access, modify and encrypt data from other individuals or organizations. It stops them accessing and spreading your network. For example,Firewalls, antivirus scanning devices, and content filtering devices.<br>
+			Cloud security means protecting data used for cloud computing systems and application from theft and deletion. There are many systems that can provide protection for cloud security such
+			as  firewalls, penetration testing, tokenization, virtual private networks (VPN), and avoiding public internet connections.
+			Antivirus/anti-malware is a computer program that can be used to detect computer threats. It is also a system that can prevent,detect, and remove malware, and other malicious software like worms, trojans, adware, and more.Today’s more and more scam websites put many fake and attractive advertisements that contain viruses to harm our computer. Computers without antivirus/anti-malware software can slow down the device and cause it to crash.  <br>
+			An intrusion detection system is a device or software application that monitors a network or computer system for malicious activities or policy violations. Any detected activities or violations are typically reported to administrators or collected centrally by secure information systems and event management.<br>
+			Data loss prevention(DLP) is a practice of securing and detecting potential data breaches, exfiltration,or unwanted destruction of critical information. Data loss prevention is very crucial to many small or big companies since data can reside on a variety of computing devices (physical servers, virtual servers, databases, file servers, PCs, and mobile devices) and move through a variety of network access points (wireline, wireless, VPNs, etc.),. That is why it can be facing some problems such as data leaks, loss...etc.</p>
+			<p><b>What is the likely impact?</b></p>
+			<p>As I say in the beginning, cybersecurity is incredibly crucial in the technology era. Without it our world will face numerous devastating problems. The first enemy that we have to deal with is cyber-crime which can be an individual person or maybe a corporation. They can use digital devices such as phones, computers, and the internet to hack our system by detecting and aiming for the most vulnerable place of our system such as software and hardware design through the use of malware. Another way is that they can directly spread the computer viruses in order to target the computer. The computer infected by the viruses will start to have malware and the hacker sooner or later will hack in and take the data out.  There are numerous devastating consequences for any business when a data breaches. That business which has data breaches can lose its reputation to customer and partner trust. When that happens the company starts to fall down and get debt.According to Forcepoint, it approximately cost 3,6 millions on organisation when their data leaked out. That is the reason why every company or organisation needs to update their cybersecurity to a higher level in order to avoid unexpected hacking by a cyber crime. Cyber crime can be more dreadful when we talk about private life. They can hack in your social media account to take your sensitive information to threaten your life. There are many cases in Vietnam when cybercrime takes control of a user's facebook account and information to blackmail them. Thanks to the development of cybersecurity the cases have dropped down. The benefit that cybersecurity provides to our life is uncountable. It can help you sleep well without worry about your information on social media getting leaked. Companies don't worry about their data stored in computers getting harm and … etc.</p>
+				<p><b>How will this affect you?</b></h4>
+				<p>The development of cybersecurity in today’s world can affect our life in a positive way and in my life also. In the near future, If I succeed graduating as a graphic designer and work for a big company, cybersecurity will secure my project from data breaches.When we look closer to our daily life, the need of a safety cyber-security is everywhere. Our social media is a primary thing we need to consider. I don’t want to live a life always scared that my sensitive information can be leaked out to the society. Furthermore our banking credit card is also very important if the security system is just too weak we can lose all our money. In Vietnam, my family is also open to a good reputation asian cuisine restaurant. There are numerous datas about our income and which we spend for each day, week and year stored in the computer. Even the salary for each employee is listed in the PC. That is why thanks to cyber security software that we usually update every 6 month we aren't really afraid about our data getting stolen and deleted. If this happens it will cost us a lot of money and time to fix these problems.</p>
+				<br>
+				<h4>Nicholas - Robots</h4>
+				<p><b>What does it do?</b></p>
+				<p>They can help in potentially dangerous situations such as helping fight forest fires, search-and-rescue missions after natural disasters, landmine detection in current or previous war zones or bomb/explosive defusal/ detonation.<br>
+			They can be utilized for jobs which require high precision and accuracy. The previously stated bomb defusal is one such scenario but I can also be other objectives like, serving as a surgical assistant or locating and carrying items throughout a warehouse.<br>
+			Another use of robots is in high effort tasks. Examples could include autonomous household robots which would carry out tasks like vacuuming or mowing the grass or working alongside humans in a manufacturing plant. They could even be used for companionship. With the improvements to artificial intelligence, a robot could offer companionship to elderly individuals or those in isolated situations.<br>
+			The manufacturing industry is the most-well known user of robots or automated machinery. Robots can either work by themselves or alongside humans, at which point they are known as co-bots. to efficiently test and assemble products such as vehicles, phones, etc. It is estimated that the manufacturing industry utilizes more than three million industrial robots. The company Rethink Robotics, located in Boston, uses co-bots to help with handling materials, testing and inspecting products and parts and packaging finished products. It reportedly did the work of two humans. Another company from Boston, Universal Robots, created three different co-bots that were integrated into the automotive production line. By mimicking the movement of the human arm, it could bring added precision to different car making processes. It could replace human operators in jobs that could be dangerous, dirty or monotonous, allowing workers to perform more advanced tasks.<br>
+			Most retailers and logistics companies are beginning to depend more on shipping, handling and quality control robots. In order to meet the increasing demand of customers for faster delivery, these companies have employed robots in warehouses and on roads to help maximize their time efficiency. Recently, Amazon has been using robots in their warehouses, to take items off the shelves, transport them across the warehouse floor and package them. Additionally, there has been a boom in the use of robots to deliver packages directly to doors also known as last-mile robots.<br>
+			Robots have also made enormous strides in the healthcare industry. They can be seen in most aspects of healthcare, from robot-assisted surgeries to robots helping humans recover from injury in physical therapy. Examples of this include Toyota’s healthcare assistants, which help people regain the ability to walk, and “TUG”, a robot designed with a built-in map to navigate hospital halls in order to transport materials and supplies. It has been outfitted with the ability to scan it’s nearby environment and communicate with elevators, fire alarms and automatic doors via the hospital's Wi-Fi. Recently, pharmaceutical companies has employed robots in order to help speed up the fight against COVID-19. These robots are being used to fill and seal COVID-19 testing swabs are also being used by some in the industry to manufacture PPE and respirators.<br>
+			Future development of robots include more humanoid robots and better artificial intelligence which can be trained either in a physical environment or simulated environment.  The humanoid robot Brett from UC Berkeley lab taught itself to conquer a children’s puzzle using reinforcement learning, also known as trial and error. Though the process was slow, the robot taught it without input from a user. The hospital robot Tug can call for help if it’s roaming the halls and there are no humans around to move the object blocking it’s path.</p>
+				<p><b>What is the likely impact?</b></p>
+				<p>Robots will change how we view certain matters. One set of questions could be, if a robot can be sent into a dangerous area, should it be sent in? What if a human could more accurately accomplish the same task? There will be more further questions but the main point is that we will need to re-evaluate many things we took as common sense. This becomes more difficult with artificial intelligence and true artificial intelligence. Do we consider robots with true artificial intelligence, which can think on its own, as humans? Where do we draw the line? What rights do they have?
+			Robots will most likely not make most jobs redundant. Firstly, high-level jobs will most definitely not be made redundant as most require intelligence our current artificial intelligence are not possible for. Low-level jobs, though much easier to replace with robots will also most likely not be replaced by robots. The reason being, as unfortunate as it is, humans are much cheaper both in the short and long term for robots to replace. A factory which can run off just a bunch of people will most likely still run off those people. Not to mention slavery is still a thing in certain countries. Humans can also be more easily taught new things when compared to robots. Not only would a robot need new programming or training which humans are far better at, if the robot does not initially have the necessary support for the task, it would need to be re-designed. For example, I could learn to fold origami with the use of some instructions. A robot on the other hand would need to have a design which has fingers or finger-like appendages, then it would need to be programmed to fold the paper into shapes, and finally it would also need to be able to recognise the fact that there is paper in front of it. It is simply much easier for a human than a robot to learn new things.</p>
+				<p><b>How will this affect you?</b></p>
+				<p>The creation of robots and the increasing intelligence of said robots would not really affect me too much. Maybe when I go to the shops, I might see a robot. But other than that, it would not. My job right now as a waiter could be made redundant by a robot, however it would be much slower, be more expensive and will be very limited in what it is capable of, not to mention the previous note of increased difficulty teaching a robot to do something new. We also don’t have robots for monotonous tasks. If we did have a robot for cleaning or cooking, we would most likely not use it either way. Cleaning is done for us as we have a dog and as such many things on the floor for it and being in an Asian household, cooking is done mostly by hand as well as most traditional dishes not specifying quantities. My family members would also most likely not be affected by a new increase in artificial intelligence as their jobs and lives simply do not revolve around robots and would not be affected by implementation of robots. My friends may be affected but like our family, they’re lives also do not revolve or depend on robots, as far as I can tell.</p>
+				<br>
+				<h4>Ryan - Machine Learning</h4>
+				<p><b>What does it do?</b></p>
+				<p>Machine learning is a branch of artificial intelligence based on the idea that a system can learn from data, identifying patterns and making its own decisions without the need for human interference. Machine learning helps to automate many features, as well as lower costs and build efficiency as its ability to learn after each time it becomes more accurate. This makes large scale projects easier and more efficient. This is done by making the AI think in a similar way to a human, where it is able to learn and improve from last attempts. By looking at a task a set of rules is able to be set or a pattern is recognised to let the computer know what its own task is. Machine learning can be used for many applications such as fraud detection, product recommendation (e.g. amazon or spotify playlist) or even going through data, while people are able to go through data themselves the use of machine learning can speed up the process, especially with larger sets of data (for example going through spreadsheets) and this also lessens the workload for a user. What makes this so valuable is the ability for machines to pick up what our eyes might miss, as a machine sifting through data is able to recognise patterns that maybe be too complex or possibly overlooked by the human eye. In terms of programming language Python is the most widely used, although other languages can be used Python is considered the ‘best’ and ‘most popular’ (supported by github) due to its support in libraries to choose from. Machine learning can be done through different methods, a more commonly used method, ‘supervised learning’ as mentioned earlier, is a way of learning that is similar to humans where the data given is filtered to help it learn the basics of its specific task as it is able to generalise the data gathered, the machine is given set data referred to a training set which helps build the foundation of the task so the machine is able to understand the basic needs, over time becoming more accurate and getting more advanced. Supervised learning can often be classified models of data with binary “yes or no” solutions or regression data which deals with numbers. Another technique used for machine learning is ‘unsupervised learning’ the machine searches for patterns and the algorithm tries to learn the structure of data. This can be done by searching for similarities that have differences from other data so they can be grouped. Another method for unsupervised learning is dimension reduction, as the name suggests this method reduces the number of variables, once again grouping data with similar attributes. Other methods include semi-supervised learning, reinforcement learning, self learning, feature learning, sparse dictionary learning, anomaly detection, robot learning and many more, though supervised and unsupervised learning are the main types. The different methods are used for different applications based on their task, although many different methods can be similar and a combination of them can be used to solve certain solutions if needed. When training a machine learning model roughly 60% of datasets is used for the machines training, while roughly 20% is used to validate the results given by the machine after and the last 20% of data is used to check the machines data ensuring it is still accurate when presented new data. </p>
+				<p><b>What is the likely impact?</b></p>
+				<p>Machine learning can have many impacts, especially in discovery and improving efficiency and large scale projects. A popular usage of machine learning is in gaming, more known for board games such as Chess or Go, where machines have been taught to beat the worlds best players by competing against themselves millions of times to learn strategies and how to counter them. For the larger amount of the population machine learning will impact their daily life in aspects such as driving, as electric self driving cars are becoming more popular, although some people have some negative feelings towards this as they question its safety with other drivers and obstacles on the road, as well as the machines ability to read human error such as graffitied signs or signs that are hardly visible. Whilst people are still skeptical of self driving cars, Machine learning and AI can be used to store data on the environment such as weather which can help identify patterns and trends with the weather that would otherwise be missed by humans. This could impact all humans as we can identify weather patterns or natural disasters to prepare beforehand and most importantly to prevent climate change from human waste as much as possible. Machine learning is also growing in health care as AI is being used to assist in treating patients and developments are being made to assist with elderly care, ultimately improving healthcare, cost and efficiency. </p>
+				<p><b>How will this affect you?<b></p>
+				<p>Personally, machine learning is used within games I play such as counter-strike:global offensive where BOT’s are able to join a game and move, shoot and aim based on data gathered from players actions. Simulating an average player's gameplay and learning from each game played, whilst also being able to adjust its difficulty level based on the players rank. On top of this my phone is able to use face recognition to unlock itself, as well as touch ID and iris scanning, all available due to machine learning. It also affects me daily whilst on the internet as some websites that cannot be trusted get blocked due to machine learning’s ability to detect harmful data within websites and some websites have ‘human verification’ due to machines being able to bypass certain security actions. This makes some tasks take longer, although protecting my computer from viruses and protecting websites from bots. Like most, I also travel via car going driving on roads where some drivers may also have self driving cars (e.g Tesla)  where machine learning has taught it to read road signs and follow the road, although there is always a possible where it misreads a sign, although this barely affects me due to the lack of self driving cars and the chances of it making a mistake. Machine learning personally affects me or is in my daily life, sometimes without realisation.</p>
+				<br>
+				<h4>Phi - Clouds, Services, Servers</h4>
+				<p><b>What does it do?</b></p>
+				<p>CSS (Clouds, services and servers), put simply, refers to a network of systems that exists over the internet, with the existence of a modern device, proper interface and software, in which that device has access/ a connection to the internet, it will automatically have access to the cloud. The cloud can be defined as accessible software, sometimes free of charge, an intangible space that grants the user the ability to store data, without requiring the assistance of physical hardware, such as a USB flash drive. Some examples of cloud services include Google Drive, Dropbox, OneDrive and many more. The cloud provides the inherent advantage over physical storage in the way that information is stored over the internet and can be accessed from any device with an internet connection. However, the cloud also has its downsides, in the face of a poor connection, or lack of a connection, the user would be locked out of accessing their data and that would prove to be quite inconvenient. There is also the risk of privacy being breached as the internet is not completely secure, users may want to consider what type of information they want stored over the cloud or reinforce/ tighten the security of online storing for reassurance.<br>
+			Services grants/provides the user with their wants/ needs through whatever technology the user is interacting with. According to <a href="https://www.techopedia.com/definition/5569/technology-services">Techopedia</a>, the definition of what technology services is; professional services designed to facilitate the use of technology by enterprises and end users. Technology services provide specialized technology-oriented solutions by combining the processes and functions of software, hardware, networks, telecommunications and electronics. Technology services generally include Internet services providers (ISP), application service providers (ASP), cloud providers and developers.<br>
+			Now, to define a server, usually a computer that serves/feeds/ processes and sends/distributes information to other computers creating a network of systems of clients that are either connected via local area network (LAN) or the internet, a server plays a vital role in any IT infrastructure. With the purpose of listening and responding to incoming network requests, a good example of this being the interaction between a browser and a Web server. A user is able to experience the process instantaneously, but there is a behind the scenes for when a link is clicked on, i.e., the request for the specified Web page is transmitted over the web server, causing the fetching and assembling of the desired Web page, retransmitting the request through a protocol such as HTTP, the browser receives the data, converting it and then displaying the page for the user to see. <a href="https://www.quora.com/What-is-the-function-of-server">Quora</a>- “Some of the most common servers in use today are database servers, application servers, mail servers and Web servers. As the name indicates, a database server provides the services and connections for storing, organizing and searching enterprise data. An application server, also called middleware, is the glue that holds the entire system together; it provides the runtime environment for applications and seamlessly coordinates things between the applications and database. Without mail servers, email would not get delivered; as bad or worse to go down would be Web servers, which are what allow people to surf the Web. Other types of critical servers in use are FTP servers, print servers, proxy servers, file servers and domain-name servers, to name a few.”
+			CSS is likely to be a term that stands side by side to each other as they are closely related to each other to create a smooth sailing technology-based concoction that exists to work together to provide many types of users a specialized solution that fits their requirement/s.</p>
+				<p><b>What is the likely impact?</b></p>
+				<p>The advancement of CSS enables the world of technology to progress forwardly in a flexible and efficient manner by providing a great alternative method to assist general users with their problems that require a solution to, usually relating to the fields of: data storing, information processing, over the web requests and general network/ server building setting up or enquiries for business enterprises or private users. CSS has a greater impact on business enterprises as when it comes down to data storing methods and server related solutions, it is likely that a business would reach out to an IT specialist for assistance in getting recommendations/suggestions on how the business should function and be set-up to appropriately match the size and requirements, ensuring that a wise choice is made, satisfying the desired goal/want/need for that certain business to flawlessly function and essentially own a solid foundation/ platform for their data storing and network of computers used to communicate between employees and their clients. The impact of services will always be grazed upon when a user interacts with any type of technology, whether it’d be a software, the internet or a phone, the user is provided with services and feedback that satisfies the user for the time that they are choosing to interact with technology. As CSS progressively grows and advances more, I believe it will bring upon the world of technology a very secure, efficient and superb technological solution delivering machine that'll save time and hopefully become affordable and easily accessible for everyone to utilise, approach and integrate into most, if not, every individuals’ lives.</p>
+				<p><b>How will this affect you?</b></p>
+				<p>This has affected me to a certain extent, I would not call/categorize it as majorly, but it has found its way to crawl into my life, forcing me to interact with some cloud software and services over the web. Although I have learned a little about servers and their general purpose and how they function, I don’t think I’ll be interacting with servers anytime soon as there is no need for me to have any association with a network of workstations just yet, potentially one day, if I decide to get a career in providing IT solutions, I would be able to use my knowledge to help users and play around with servers more, professionally of course.<br>
+			I am a frequent user of the internet and so services appear basically every day in my life, it keeps me entertained and helps me solve my problem when I need it to, keeping me a happy, satisfied and lucky being to have access and be alive in an era of technology.<br>
+			In terms of use of the cloud, I prefer storing my data through physical hardware means, as I am a firm believer in myself to manage and keep track of hardware more easily, avoiding the risks of online privacy attacks at the cost of the inconveniently slow access speeds. It just feels safer for me and I guess one could say I like the traditional ways of doing things and have not yet opened up/ moved to the generally, more well-known and accepted methods of IT, at least not yet. I haven’t been able to find a cloud software that I’d consider using as my main method of data storing, however if I had to make the transition from physical storage to cloud, I think the winning software for me would be Google Drive.</p>
+			</div>
+			<div class = "div1">
+				<h3> Project Idea </h3>
+				<h4>Overview</h4>
+				<p>Whilst thinking of project ideas I gravitated around using Arduino or tools such as unity to create something physically functional or a games/program. During high school I used Arduino’s quite a bit during Systems Engineering, this included Bluetooth, keypad passwords, wired remote control vehicles and a Bluetooth vehicle. Because of this I would feel comfortable working with Arduino. I also thought quite a bit about using programs such as unity, unreal engine or visual studio to create either a game or program. Both options I would work passionately to create as I have found an interest working with both and I would be able to try something new with them although not being completely new to it.</p>
+				<br>
+				<h4>My initial ideas for a project included:</h4>
+				<ul>
+					<li>Arduino plant monitoring system</li>
+					<li>Phone apps</li>
+					<li>RPG games</li>
+					<li>Unity or Unreal engine aim trainer</li>
+					<li>Visual studio program</li>
+				</ul>
+				<p>Although these aren't very specific ideas, they were areas that I would be passionate about or have experience creating before.</p>
+				<br>
+				<h4>Description</h4>
+				<p>For my project I would like to create an “aim training” program that should allow a user to do one task or a playlist of tasks, so they are able to improve their aiming ability. Although this isn't inventing a new wheel, I want my project to be more detailed and feature more analysis than current programs. For example, I would like to have statistics based on speed (average reaction and a log of per shot reactions), precision (based off distance from centre of target), accuracy (hit shots divided by total shots) and directional weaknesses.  As well as scoring each task to be compared to the users average score and to help motivate, their highest score so that they have a target to beat.</p>
+				<br>
+				<p>I think this program should be appealing towards gamers who enjoy competitive first-person shooters as improving aim is a desirable skill for anyone trying to improve. Not only would this appeal to people familiar with existing programs, but also people who are new to first-person shooters and would like to fast track their ability to aim, whilst also being able to analyse their improvement over time. Even though the user base may seem small, statistics from my favourite first-person shooter CS:GO shows an average of players of 745,550.8 per day over the last 30 days (during the month of March 2021) which is a 0.61% gain from the previous month (source in bibliography). This being the player base of a singular game, the user base increases when including players from other games. My motivation for this is my gaming hobby and constant want to improve. Whilst thinking about projects, I thought this would benefit me the most. It is also a known way for improving aim and has been tested to prove it works (e.g. <a href ="https://www.youtube.com/watch?v=g2oaBFXb3EM">https://www.youtube.com/watch?v=g2oaBFXb3EM</a>)</p>
+				<br>
+				<h4>Tools and Technologies</h4>
+				<p>The program would be a free to download application for Windows computers, potentially compatible with Apple and Linux as well, though its targeted OS would be Windows. Upon opening the app, the user would be placed in a greyscale arena with a popup menu open for them to select their task, depending on the task there will be targets that appear in front of the user, where their objective is to score as high as possible (this is done by shooting as much targets as possible within 60 seconds, whilst losing points for missing the targets). As some users prefer a set number of targets and a timed base score, this option would also be available. The user interface will be minimalist with consistent font and colour, whilst having headings for each category, accompanied by subheadings which would list the available tasks and their start button. The targets within these tasks will be circular in shape and consistent size, although the user will be able to customise their colour, as well as their own crosshair colour, size and outline. The categories available will include speed, where the user's main goal is to complete the task as fast as possible with relevantly easy targets. Precision which would be similar, but rather the user will have smaller targets, so their objective is to be more accurate that they are fast. More specifically the tasks would include micro adjustments where the user's targets appear nearby to the last one so the user can improve upon small mouse movements, flicking over larger distances to keep consistent when moving over larger distances, tracing so the user can improve their ability to follow a target and its unpredictable movements. There will also be a reaction time-based task where the target won't move but will record the time taken for the user to shoot it, this is to both improve their ability to focus on the target and record improvements on their reaction time. It would also include a workshop function where users are able to create or import their own tasks, including a FAQ section for users to suggest possible improvements or new tasks that could later be implemented. </p>
+				<br>
+				<h4>Skills required:</h4>
+				<ul>
+					<li>Game/Level Design</li>
+					<li>Coding</li>
+					<li>Programming</li>
+					<li>3D modelling</li>
+					<li>Knowledge of database</li>
+				</ul>
+				<br>
+				<p>Out of the skills required the hardest learning curve would be learning about the databases and storing the users high scores as well as calculating their average score. On top of this developing the code for this program may also prove to be a challenge. </p>
+				<br>
+				<h4>Outcome</h4>
+				<p>When finished the outcome of this program should be a working application that the target audience would be interesting in. It should also be quick to load and lag free for the user to use, this way they can spend less time waiting, especially so the user can open it up between games while waiting for their next.</p>
+			</div>
+			<div class = "div1">
+				<h3> Reflection </h3>
+				<h4>Nicholas</h4>
+				<p>We worked quite quickly and well when everyone was working at the same time, for example, during the meetings, but seemed to slow down when working individually. I think that more meetings could help with this but not everyone is always available. One thing that surprised me was the speed at which tasks were completed when everyone was present. I learned a few things about working in groups. One is having a microphone that has noise suppression or a noise gate really helps when trying to have a meeting. A lot of the time, the background volume would become unbearable so I would turn it down, only to have to turn it back up for when there was discussion or questions. Another thing I learned is that you can’t always expect there to be a leader in your group. I genuinely thought one of us was just going to take up the role. Finally, communication and understanding is very key to group work. I knew that it was necessary but I did not understand just how key it was.</p>
+				<h4>Long</h4>
+				<p>There are many things to say about our group. The amount of work is solved very quickly when 4 of us sit together. We list out what we need to do for each individual that is what I very prefer when talking about teamwork. I think setting out more meetings can help us solve every problem. However, everyone has their own problem and we can meet that much in a week. The thing that I am amazed about this group is everyone discusses and agrees with each other's opinion very fast to settle the deadline. For me i think the biggest problem of this group is no one steps up to be a leader. Our communication is very difficult to manage. Usually everyone just keeps silent after deciding which part they need to do. And none of us don't know how to fix this problem. assignment.</p>
+				<h4>Ryan</h4>
+				<p>Whilst working in this group it is apparent that most of the work gets done whilst in a meeting together. Although we are able to get our own work done solo it is much faster whilst sitting down in the meeting and doing it. During meetings we discuss what needs to be done and agree upon who should do what to equally share the workload, this is often solved quickly with everyone agreeing. We could have had more meetings to finish the work faster, although we still worked at a good speed and found ways to communicate outside of class to organise meetings. In this group we had no 1 leader but every now and then someone would stand up to the role to make sure we got the work done, whether it was going through what everyone has already done or what still needs to be done. At the end of our meetings we would look at what was done during that time and discuss what still needs to be done and by who or by when so we would be ready for our next meeting. In terms of choosing our project we created a poll and everyone was in agreement so we had that sorted out pretty quick, looking at what skills were needed for the project, everyone would have some skills to contribute to get it done.</p>
+				<h4>Phi</h4>
+				<p>As a team, our group was able to decision make, settle on matters and set scheduled times for meetings quite well. Our each and individual attendance to meetings, contributions to the assignment made was distributed evenly, each member did their respective assigned tasks which creates a very well-balanced team. The presence of a leader would have helped to improve this group, but it is understandable that the role is not well-fitted for anyone. However, this group was still able to get things done without a leader which shows that, although a leader would have helped, it is not essential and is not the make or break of a group. The thing that surprised me for this group was, initially the group was not very coordinated and aware of what the assignment was asking for, this was easily solved in an early meeting where we went through the assignment specification and discussed the general idea of what had to be done. What I’ve learned about groups is that being in one helped motivate me to get work done alongside my other group members, it helped to use Google docs to track our groups progress, I used it as a milestone guide for what and where I should be up to if I wanted to match the progress of my group members. </p>
+			</div>
+			<div class="div1">
+				<h3>Group Reflection</h3>
+				<p></p>
+			</div>
